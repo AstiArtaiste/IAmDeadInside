@@ -44,6 +44,16 @@
 [shop](https://store.steampowered.com/app/792300/The_Beast_Inside/)
 [walktrough](https://www.youtube.com/watch?v=gY9EA-5h_Zs)
 
+## Elevator Pitch
+
+You are alone in your home at night or so you thought. A stranger gets inside the house and you have to keep quiet to survive. Your only company are the messages you get on your phone from your friend and mother. A short horror story with voice detecting mechanics.
+
+##Storyboard
+
+[Link Here](https://drive.google.com/file/d/16E9pzuYss_nwQy8ofTcIOIXBbjeeXFte/view?usp=sharing)
+
+
+
 
 
 
