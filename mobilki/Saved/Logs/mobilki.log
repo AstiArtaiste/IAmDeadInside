@@ -1011,3 +1011,391 @@ An asset already exists at the import location: /Game/assetyformobilki/Door_Knoc
 [2023.01.06-11.04.39:146][646]LogUObjectGlobals: Force Deleting 1 Package(s):
 	Asset Name: /Game/assetyformobilki/Door_Knocking_Sound_Effect.Door_Knocking_Sound_Effect
 [2023.01.06-11.04.39:683][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2023.01.06-11.16.55:404][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LivingRoomFloor4)
+[2023.01.06-11.17.00:447][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrontDoor_a)
+[2023.01.06-11.17.08:240][720]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FrontDoor_a)
+[2023.01.06-11.17.57:845][109]LogSlate: Took 0.001634 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.06-11.18.25:146][640]BlueprintLog: New page: Compile FirstFloor
+[2023.01.06-11.18.25:206][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.01.06-11.18.26:170][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.01.06-11.18.26:437][689]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/FirstFloorBFBD5F2D4C0CAA4E3D8288B4356E2F86.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Content/EF_FirstFloor/Maps/FirstFloor.umap'
+[2023.01.06-11.18.26:451][689]LogFileHelpers: Saving map 'FirstFloor' took 0.309
+[2023.01.06-11.18.26:469][689]AssetCheck: New page: Asset Save: FirstFloor
+[2023.01.06-11.18.26:469][689]LogContentValidation: Display: Validating World /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor
+[2023.01.06-11.18.40:521][479]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.06-11.18.40:536][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.06-11.18.40:543][479]PIE: New page: PIE session: FirstFloor (6 sty 2023, 13:18:40)
+[2023.01.06-11.18.40:551][479]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.01.06-11.18.40:556][479]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.06-11.18.40:557][479]LogPlayLevel: Creating play world package: /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.06-11.18.40:629][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071564s)
+[2023.01.06-11.18.40:632][479]LogAIModule: Creating AISystem for world FirstFloor
+[2023.01.06-11.18.40:634][479]LogPlayLevel: PIE: World Init took: (0.003807s)
+[2023.01.06-11.18.40:634][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor to /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor (0.076206s)
+[2023.01.06-11.18.40:654][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.01.06-11.18.40:659][479]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.06-11.18.40:659][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.06-11.18.40:659][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.06-11.18.40:659][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.06-11.18.40:659][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.06-11.18.40:659][479]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.06-11.18.40:659][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.06-11.18.40:659][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.06-11.18.40:659][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.06-11.18.40:660][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.06-11.18.40:660][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.06-11.18.40:660][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.06-11.18.40:660][479]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.06-11.18.40:663][479]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.06-11.18.40:663][479]LogAudioMixer: Display: 1: FrontRight
+[2023.01.06-11.18.40:679][479]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2023.01.06-11.18.40:679][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.06-11.18.40:679][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.06-11.18.40:679][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.06-11.18.40:680][479]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.06-11.18.40:680][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.06-11.18.40:680][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.06-11.18.40:681][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.06-11.18.40:681][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.06-11.18.40:682][479]LogInit: FAudioDevice initialized.
+[2023.01.06-11.18.40:682][479]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstFloor'.
+[2023.01.06-11.18.40:705][479]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.06-11.18.40:738][479]LogWorld: Bringing World /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor up for play (max tick rate 60) at 2023.01.06-12.18.40
+[2023.01.06-11.18.40:751][479]LogWorld: Bringing up level for play took: 0.037217
+[2023.01.06-11.18.40:752][479]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2023.01.06-11.18.40:771][479]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 20 classes and 0 folders.
+[2023.01.06-11.18.40:784][479]PIE: Server logged in
+[2023.01.06-11.18.40:786][479]PIE: Play in editor total start time 0,256 seconds.
+[2023.01.06-11.18.57:145][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.18.57:145][429]LogWorld: BeginTearingDown for /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.06-11.18.57:148][429]LogWorld: UWorld::CleanupWorld for FirstFloor, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-11.18.57:155][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.18.57:178][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.06-11.18.57:210][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.18.57:256][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.06-11.18.57:259][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.06-11.18.57:261][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.06-11.18.57:267][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.18.57:339][429]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2023.01.06-11.18.57:383][430]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.01.06-11.19.30:512][  2]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2023.01.06-11.21.07:371][186]BlueprintLog: New page: Compile FirstFloor
+[2023.01.06-11.21.07:475][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2023.01.06-11.21.08:222][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.06-11.21.08:469][222]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/FirstFloor863D40E047DFFB3EADEABAA2C8E02353.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Content/EF_FirstFloor/Maps/FirstFloor.umap'
+[2023.01.06-11.21.08:477][222]LogFileHelpers: Saving map 'FirstFloor' took 0.289
+[2023.01.06-11.21.08:498][222]AssetCheck: New page: Asset Save: FirstFloor
+[2023.01.06-11.21.08:498][222]LogContentValidation: Display: Validating World /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor
+[2023.01.06-11.21.11:405][387]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.06-11.21.11:414][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.06-11.21.11:414][387]PIE: New page: PIE session: FirstFloor (6 sty 2023, 13:21:11)
+[2023.01.06-11.21.11:454][387]LogPlayLevel: Creating play world package: /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.06-11.21.11:509][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054984s)
+[2023.01.06-11.21.11:510][387]LogAIModule: Creating AISystem for world FirstFloor
+[2023.01.06-11.21.11:510][387]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2023.01.06-11.21.11:511][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor to /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor (0.056756s)
+[2023.01.06-11.21.11:536][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.01.06-11.21.11:538][387]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.01.06-11.21.11:538][387]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.06-11.21.11:538][387]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.06-11.21.11:538][387]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.06-11.21.11:538][387]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.06-11.21.11:538][387]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.06-11.21.11:538][387]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.06-11.21.11:538][387]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.06-11.21.11:538][387]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.06-11.21.11:539][387]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.06-11.21.11:539][387]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.06-11.21.11:539][387]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.06-11.21.11:539][387]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.06-11.21.11:541][387]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.06-11.21.11:541][387]LogAudioMixer: Display: 1: FrontRight
+[2023.01.06-11.21.11:559][387]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2023.01.06-11.21.11:559][387]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.06-11.21.11:559][387]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.06-11.21.11:559][387]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.06-11.21.11:560][387]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.06-11.21.11:560][387]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.06-11.21.11:560][387]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.06-11.21.11:561][387]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.06-11.21.11:561][387]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.06-11.21.11:561][387]LogInit: FAudioDevice initialized.
+[2023.01.06-11.21.11:561][387]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstFloor'.
+[2023.01.06-11.21.11:576][387]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.06-11.21.11:596][387]LogWorld: Bringing World /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor up for play (max tick rate 60) at 2023.01.06-12.21.11
+[2023.01.06-11.21.11:597][387]LogWorld: Bringing up level for play took: 0.020460
+[2023.01.06-11.21.11:597][387]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.01.06-11.21.11:604][387]PIE: Server logged in
+[2023.01.06-11.21.11:606][387]PIE: Play in editor total start time 0,194 seconds.
+[2023.01.06-11.21.29:302][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.21.29:302][441]LogWorld: BeginTearingDown for /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.06-11.21.29:303][441]LogWorld: UWorld::CleanupWorld for FirstFloor, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-11.21.29:308][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.21.29:324][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.06-11.21.29:347][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.21.29:372][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.21.29:375][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.06-11.21.29:377][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.06-11.21.29:387][441]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.01.06-11.21.29:420][442]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.01.06-11.21.44:855][291]BlueprintLog: New page: Compile FirstFloor
+[2023.01.06-11.21.44:933][291]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2023.01.06-11.21.45:665][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.01.06-11.21.45:930][324]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/FirstFloor7E93757E4AE9E5AF770F9B89BC8134DC.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Content/EF_FirstFloor/Maps/FirstFloor.umap'
+[2023.01.06-11.21.45:937][324]LogFileHelpers: Saving map 'FirstFloor' took 0.301
+[2023.01.06-11.21.45:955][324]AssetCheck: New page: Asset Save: FirstFloor
+[2023.01.06-11.21.45:955][324]LogContentValidation: Display: Validating World /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor
+[2023.01.06-11.21.52:390][659]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.06-11.21.52:401][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.06-11.21.52:402][659]PIE: New page: PIE session: FirstFloor (6 sty 2023, 13:21:52)
+[2023.01.06-11.21.52:402][659]LogPlayLevel: Creating play world package: /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.06-11.21.52:462][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060363s)
+[2023.01.06-11.21.52:463][659]LogAIModule: Creating AISystem for world FirstFloor
+[2023.01.06-11.21.52:464][659]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2023.01.06-11.21.52:464][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor to /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor (0.061939s)
+[2023.01.06-11.21.52:489][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.01.06-11.21.52:491][659]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.01.06-11.21.52:491][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.06-11.21.52:491][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.06-11.21.52:491][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.06-11.21.52:491][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.06-11.21.52:491][659]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.06-11.21.52:491][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.06-11.21.52:491][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.06-11.21.52:491][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.06-11.21.52:491][659]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.06-11.21.52:491][659]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.06-11.21.52:491][659]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.06-11.21.52:491][659]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.06-11.21.52:494][659]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.06-11.21.52:494][659]LogAudioMixer: Display: 1: FrontRight
+[2023.01.06-11.21.52:509][659]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2023.01.06-11.21.52:509][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.06-11.21.52:509][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.06-11.21.52:509][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.06-11.21.52:510][659]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.06-11.21.52:510][659]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.06-11.21.52:510][659]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.06-11.21.52:511][659]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.06-11.21.52:512][659]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.06-11.21.52:512][659]LogInit: FAudioDevice initialized.
+[2023.01.06-11.21.52:512][659]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstFloor'.
+[2023.01.06-11.21.52:525][659]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.06-11.21.52:546][659]LogWorld: Bringing World /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor up for play (max tick rate 60) at 2023.01.06-12.21.52
+[2023.01.06-11.21.52:547][659]LogWorld: Bringing up level for play took: 0.021465
+[2023.01.06-11.21.52:547][659]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.01.06-11.21.52:551][659]PIE: Server logged in
+[2023.01.06-11.21.52:552][659]PIE: Play in editor total start time 0,153 seconds.
+[2023.01.06-11.22.12:086][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.22.12:086][826]LogWorld: BeginTearingDown for /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.06-11.22.12:087][826]LogWorld: UWorld::CleanupWorld for FirstFloor, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-11.22.12:095][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.22.12:110][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.06-11.22.12:143][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.22.12:177][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.22.12:178][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.06-11.22.12:180][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.06-11.22.12:198][826]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2023.01.06-11.22.12:231][827]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.01.06-11.22.19:320][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FrontDoor_a)
+[2023.01.06-11.23.48:960][ 65]BlueprintLog: New page: Compile FirstFloor
+[2023.01.06-11.23.49:025][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.01.06-11.23.51:896][229]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.06-11.23.51:909][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.06-11.23.51:909][229]PIE: New page: PIE session: FirstFloor (6 sty 2023, 13:23:51)
+[2023.01.06-11.23.51:909][229]LogPlayLevel: Creating play world package: /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.06-11.23.51:988][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078109s)
+[2023.01.06-11.23.51:990][229]LogAIModule: Creating AISystem for world FirstFloor
+[2023.01.06-11.23.51:991][229]LogPlayLevel: PIE: World Init took: (0.003595s)
+[2023.01.06-11.23.51:992][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor to /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor (0.082297s)
+[2023.01.06-11.23.52:019][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.01.06-11.23.52:020][229]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.01.06-11.23.52:020][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.06-11.23.52:020][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.06-11.23.52:020][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.06-11.23.52:020][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.06-11.23.52:020][229]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.06-11.23.52:020][229]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.06-11.23.52:020][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.06-11.23.52:020][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.06-11.23.52:021][229]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.06-11.23.52:021][229]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.06-11.23.52:021][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.06-11.23.52:021][229]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.06-11.23.52:023][229]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.06-11.23.52:023][229]LogAudioMixer: Display: 1: FrontRight
+[2023.01.06-11.23.52:038][229]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2023.01.06-11.23.52:038][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.06-11.23.52:038][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.06-11.23.52:038][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.06-11.23.52:038][229]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.06-11.23.52:039][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.06-11.23.52:039][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.06-11.23.52:040][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.06-11.23.52:040][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.06-11.23.52:040][229]LogInit: FAudioDevice initialized.
+[2023.01.06-11.23.52:040][229]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstFloor'.
+[2023.01.06-11.23.52:051][229]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.06-11.23.52:071][229]LogWorld: Bringing World /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor up for play (max tick rate 60) at 2023.01.06-12.23.52
+[2023.01.06-11.23.52:072][229]LogWorld: Bringing up level for play took: 0.020350
+[2023.01.06-11.23.52:072][229]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.01.06-11.23.52:077][229]PIE: Server logged in
+[2023.01.06-11.23.52:078][229]PIE: Play in editor total start time 0,171 seconds.
+[2023.01.06-11.24.04:354][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.24.04:354][959]LogWorld: BeginTearingDown for /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.06-11.24.04:354][959]LogWorld: UWorld::CleanupWorld for FirstFloor, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-11.24.04:358][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.24.04:371][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.06-11.24.04:393][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.24.04:416][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.24.04:418][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.06-11.24.04:420][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.06-11.24.04:431][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.01.06-11.24.04:496][960]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.01.06-11.26.07:897][604]BlueprintLog: New page: Compile FirstFloor
+[2023.01.06-11.26.07:979][604]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2023.01.06-11.26.08:693][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.01.06-11.26.08:944][636]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/FirstFloor1A5EF5164083C9A4F6DB768DE14B0618.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Content/EF_FirstFloor/Maps/FirstFloor.umap'
+[2023.01.06-11.26.08:951][636]LogFileHelpers: Saving map 'FirstFloor' took 0.282
+[2023.01.06-11.26.08:971][636]AssetCheck: New page: Asset Save: FirstFloor
+[2023.01.06-11.26.08:971][636]LogContentValidation: Display: Validating World /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor
+[2023.01.06-11.26.26:642][483]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue
+[2023.01.06-11.27.36:640][221]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue was zero and has changed. Consider manually Re-saving the asset
+[2023.01.06-11.28.54:458][410]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue was zero and has changed. Consider manually Re-saving the asset
+[2023.01.06-11.34.10:905][663]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/Explosion_Cue36400F0B4C03CD22E9DF7E9F629A8603.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Content/StarterContent/Audio/Explosion_Cue.uasset'
+[2023.01.06-11.34.10:927][663]AssetCheck: New page: Asset Save: Explosion_Cue
+[2023.01.06-11.34.10:927][663]LogContentValidation: Display: Validating SoundCue /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue
+[2023.01.06-11.34.21:295][151]BlueprintLog: New page: Compile FirstFloor
+[2023.01.06-11.34.21:363][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2023.01.06-11.34.21:870][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.01.06-11.34.22:146][173]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/FirstFloor226AA0D044613FA9DDBAACA6E6C72613.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Content/EF_FirstFloor/Maps/FirstFloor.umap'
+[2023.01.06-11.34.22:153][173]LogFileHelpers: Saving map 'FirstFloor' took 0.315
+[2023.01.06-11.34.22:170][173]AssetCheck: New page: Asset Save: FirstFloor
+[2023.01.06-11.34.22:170][173]LogContentValidation: Display: Validating World /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor
+[2023.01.06-11.34.24:280][290]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.06-11.34.24:289][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.06-11.34.24:289][290]PIE: New page: PIE session: FirstFloor (6 sty 2023, 13:34:24)
+[2023.01.06-11.34.24:330][290]LogPlayLevel: Creating play world package: /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.06-11.34.24:385][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054890s)
+[2023.01.06-11.34.24:386][290]LogAIModule: Creating AISystem for world FirstFloor
+[2023.01.06-11.34.24:387][290]LogPlayLevel: PIE: World Init took: (0.001932s)
+[2023.01.06-11.34.24:387][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor to /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor (0.057271s)
+[2023.01.06-11.34.24:413][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.01.06-11.34.24:414][290]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.01.06-11.34.24:414][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.06-11.34.24:414][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.06-11.34.24:414][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.06-11.34.24:415][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.06-11.34.24:415][290]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.06-11.34.24:415][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.06-11.34.24:415][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.06-11.34.24:415][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.06-11.34.24:415][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.06-11.34.24:415][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.06-11.34.24:415][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.06-11.34.24:415][290]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.06-11.34.24:418][290]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.06-11.34.24:418][290]LogAudioMixer: Display: 1: FrontRight
+[2023.01.06-11.34.24:434][290]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2023.01.06-11.34.24:434][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.06-11.34.24:434][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.06-11.34.24:434][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.06-11.34.24:434][290]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.06-11.34.24:434][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.06-11.34.24:434][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.06-11.34.24:436][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.06-11.34.24:436][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.06-11.34.24:436][290]LogInit: FAudioDevice initialized.
+[2023.01.06-11.34.24:436][290]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstFloor'.
+[2023.01.06-11.34.24:448][290]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.06-11.34.24:474][290]LogWorld: Bringing World /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor up for play (max tick rate 60) at 2023.01.06-12.34.24
+[2023.01.06-11.34.24:476][290]LogWorld: Bringing up level for play took: 0.027366
+[2023.01.06-11.34.24:476][290]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.01.06-11.34.24:482][290]PIE: Server logged in
+[2023.01.06-11.34.24:483][290]PIE: Play in editor total start time 0,197 seconds.
+[2023.01.06-11.34.26:866][428]LogAudio: Warning: Detected orphaned looping sound 'Explosion_Cue'.
+[2023.01.06-11.34.54:348][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.34.54:348][ 75]LogWorld: BeginTearingDown for /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.06-11.34.54:349][ 75]LogWorld: UWorld::CleanupWorld for FirstFloor, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-11.34.54:353][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.34.54:367][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.06-11.34.54:390][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.34.54:418][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.34.54:418][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.06-11.34.54:420][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.06-11.34.54:432][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2023.01.06-11.34.54:495][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.01.06-11.35.51:336][979]BlueprintLog: New page: Compile FirstFloor
+[2023.01.06-11.35.51:398][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.01.06-11.35.52:289][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.01.06-11.35.52:554][ 21]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/FirstFloor3B3D9B90423C4330340503848646359D.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Content/EF_FirstFloor/Maps/FirstFloor.umap'
+[2023.01.06-11.35.52:561][ 21]LogFileHelpers: Saving map 'FirstFloor' took 0.296
+[2023.01.06-11.35.52:581][ 21]AssetCheck: New page: Asset Save: FirstFloor
+[2023.01.06-11.35.52:581][ 21]LogContentValidation: Display: Validating World /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor
+[2023.01.06-11.36.27:937][754]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.01.06-11.38.16:129][832]LogSlate: Window 'Project Settings' being destroyed
+[2023.01.06-11.38.16:147][832]LogSlate: Window 'Project Settings' being destroyed
+[2023.01.06-11.38.20:608][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2023.01.06-11.38.20:896][ 29]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/FirstFloor861274924C44B5A2820671A26D54A555.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Content/EF_FirstFloor/Maps/FirstFloor.umap'
+[2023.01.06-11.38.20:904][ 29]LogFileHelpers: Saving map 'FirstFloor' took 0.379
+[2023.01.06-11.38.20:925][ 29]AssetCheck: New page: Asset Save: FirstFloor
+[2023.01.06-11.38.20:925][ 29]LogContentValidation: Display: Validating World /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor
+[2023.01.06-11.40.46:322][636]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.06-11.40.46:333][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.06-11.40.46:333][636]PIE: New page: PIE session: FirstFloor (6 sty 2023, 13:40:46)
+[2023.01.06-11.40.46:333][636]LogPlayLevel: Creating play world package: /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.06-11.40.46:407][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074121s)
+[2023.01.06-11.40.46:409][636]LogAIModule: Creating AISystem for world FirstFloor
+[2023.01.06-11.40.46:409][636]LogPlayLevel: PIE: World Init took: (0.001998s)
+[2023.01.06-11.40.46:409][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor to /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor (0.076375s)
+[2023.01.06-11.40.46:467][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.01.06-11.40.46:469][636]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.01.06-11.40.46:469][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.06-11.40.46:469][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.06-11.40.46:469][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.06-11.40.46:470][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.06-11.40.46:470][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.06-11.40.46:470][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.06-11.40.46:470][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.06-11.40.46:470][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.06-11.40.46:470][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.06-11.40.46:470][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.06-11.40.46:470][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.06-11.40.46:470][636]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.06-11.40.46:473][636]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.06-11.40.46:473][636]LogAudioMixer: Display: 1: FrontRight
+[2023.01.06-11.40.46:488][636]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2023.01.06-11.40.46:488][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.06-11.40.46:488][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.06-11.40.46:488][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.06-11.40.46:489][636]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.06-11.40.46:489][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.06-11.40.46:489][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.06-11.40.46:491][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.06-11.40.46:491][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.06-11.40.46:491][636]LogInit: FAudioDevice initialized.
+[2023.01.06-11.40.46:491][636]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstFloor'.
+[2023.01.06-11.40.46:503][636]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.06-11.40.46:525][636]LogWorld: Bringing World /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor up for play (max tick rate 0) at 2023.01.06-12.40.46
+[2023.01.06-11.40.46:526][636]LogWorld: Bringing up level for play took: 0.021970
+[2023.01.06-11.40.46:526][636]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.01.06-11.40.46:532][636]PIE: Server logged in
+[2023.01.06-11.40.46:532][636]PIE: Play in editor total start time 0,203 seconds.
+[2023.01.06-11.40.48:074][780]LogAudio: Warning: Detected orphaned looping sound 'Explosion_Cue'.
+[2023.01.06-11.40.59:555][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.40.59:555][885]LogWorld: BeginTearingDown for /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.06-11.40.59:556][885]LogWorld: UWorld::CleanupWorld for FirstFloor, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-11.40.59:563][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.40.59:585][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.06-11.40.59:615][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-11.40.59:637][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-11.40.59:640][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.06-11.40.59:642][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.06-11.40.59:652][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.01.06-11.40.59:694][886]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.01.06-11.41.01:954][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.01.06-11.41.02:232][ 61]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/FirstFloorF7DFF13F44241F85CD9DD799C1EEC4D5.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Content/EF_FirstFloor/Maps/FirstFloor.umap'
+[2023.01.06-11.41.03:901][ 61]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/FirstFloor_BuiltData655D019F4A69868856BA789926B3CB40.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Content/EF_FirstFloor/Maps/FirstFloor_BuiltData.uasset'
+[2023.01.06-11.41.03:947][ 61]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.06-11.41.03:947][ 61]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/EF_FirstFloor/Maps/FirstFloor_BuiltData.FirstFloor_BuiltData
+[2023.01.06-11.41.03:947][ 61]LogContentValidation: Display: Validating World /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor
