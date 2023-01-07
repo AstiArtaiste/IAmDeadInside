@@ -10284,3 +10284,151 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.07-12.15.47:067][477]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2023.01.07-12.15.47:067][477]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
 [2023.01.07-12.15.47:068][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.07-12.16.17:292][850]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2023.01.07-12.16.17:628][850]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/FirstFloor_Auto95C1FBE114A9406A3667CBFB5C563C6C7.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/Autosaves/Game/EF_FirstFloor/Maps/FirstFloor_Auto9.umap'
+[2023.01.07-12.16.17:632][850]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/EF_FirstFloor/Maps/FirstFloor' took 0.680
+[2023.01.07-12.16.17:632][850]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.680
+[2023.01.07-12.16.17:633][850]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/door] ([4] browsable assets)...
+[2023.01.07-12.16.17:669][850]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/door.door]
+[2023.01.07-12.16.17:697][850]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/door.door]
+[2023.01.07-12.16.17:697][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/door]
+[2023.01.07-12.16.17:718][850]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/door_Auto9CD44F6E3427FBCBE789462A7405049B0.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/door_Auto9.uasset'
+[2023.01.07-12.16.17:719][850]LogFileHelpers: Auto-saving content packages took 0.087
+[2023.01.07-12.16.45:304][284]LogEditorViewport: Clicking on Actor (LMB): EvilMan_C (EvilMan)
+[2023.01.07-12.17.06:521][431]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.07-12.17.06:543][431]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.07-12.17.36:117][951]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.07-12.17.37:015][986]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.07-12.17.37:049][986]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.07-12.17.37:050][986]LogEditorClassViewer: Warning: Class /Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.PLACEHOLDER-CLASS__TutorialCharacter_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.07-12.17.44:094][362]BlueprintLog: New page: Compile EvilMan
+[2023.01.07-12.17.44:566][362]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
+[2023.01.07-12.17.45:247][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EvilMan" FILE="../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Content/EvilMan.uasset" SILENT=true
+[2023.01.07-12.17.45:279][388]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/EvilMan7A54924B4C9A9F908DDE238FA93841CC.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Content/EvilMan.uasset'
+[2023.01.07-12.17.45:307][388]AssetCheck: New page: Asset Save: EvilMan
+[2023.01.07-12.17.45:307][388]LogContentValidation: Display: Validating Blueprint /Game/EvilMan.EvilMan
+[2023.01.07-12.18.02:348][316]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.07-12.18.02:356][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.07-12.18.02:357][316]PIE: New page: PIE session: FirstFloor (7 sty 2023, 14:18:02)
+[2023.01.07-12.18.02:400][316]LogPlayLevel: Creating play world package: /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.07-12.18.02:477][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077613s)
+[2023.01.07-12.18.02:478][316]LogAIModule: Creating AISystem for world FirstFloor
+[2023.01.07-12.18.02:479][316]LogPlayLevel: PIE: World Init took: (0.002379s)
+[2023.01.07-12.18.02:479][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor to /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor (0.080511s)
+[2023.01.07-12.18.02:557][316]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2023.01.07-12.18.02:564][316]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.01.07-12.18.02:564][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.07-12.18.02:564][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.07-12.18.02:564][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.07-12.18.02:564][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.07-12.18.02:564][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.07-12.18.02:564][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.07-12.18.02:564][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.07-12.18.02:564][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.07-12.18.02:564][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.07-12.18.02:564][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.07-12.18.02:564][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.07-12.18.02:564][316]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.07-12.18.02:568][316]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.07-12.18.02:568][316]LogAudioMixer: Display: 1: FrontRight
+[2023.01.07-12.18.02:584][316]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2023.01.07-12.18.02:585][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.07-12.18.02:585][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.07-12.18.02:585][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.07-12.18.02:586][316]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.07-12.18.02:586][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.07-12.18.02:586][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.07-12.18.02:587][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.07-12.18.02:588][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.07-12.18.02:588][316]LogInit: FAudioDevice initialized.
+[2023.01.07-12.18.02:588][316]LogAudio: Display: Audio Device (ID: 35) registered with world 'FirstFloor'.
+[2023.01.07-12.18.02:603][316]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.07-12.18.02:628][316]LogWorld: Bringing World /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor up for play (max tick rate 60) at 2023.01.07-13.18.02
+[2023.01.07-12.18.02:630][316]LogWorld: Bringing up level for play took: 0.026234
+[2023.01.07-12.18.02:630][316]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2023.01.07-12.18.02:635][316]PIE: Server logged in
+[2023.01.07-12.18.02:636][316]PIE: Play in editor total start time 0,283 seconds.
+[2023.01.07-12.18.16:652][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.07-12.18.16:652][115]LogWorld: BeginTearingDown for /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.07-12.18.16:653][115]LogWorld: UWorld::CleanupWorld for FirstFloor, bSessionEnded=true, bCleanupResources=true
+[2023.01.07-12.18.16:658][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.07-12.18.16:678][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.07-12.18.16:748][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.07-12.18.16:825][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.07-12.18.16:825][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.07-12.18.16:827][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.07-12.18.16:834][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.07-12.18.16:848][115]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2023.01.07-12.18.16:956][116]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.01.07-12.18.33:278][982]LogEditorViewport: Clicking on Actor (LMB): door_C (door)
+[2023.01.07-12.18.56:840][292]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.01.07-12.19.07:713][884]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.07-12.19.07:724][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.07-12.19.07:724][884]PIE: New page: PIE session: FirstFloor (7 sty 2023, 14:19:07)
+[2023.01.07-12.19.07:725][884]LogPlayLevel: Creating play world package: /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.07-12.19.07:782][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057048s)
+[2023.01.07-12.19.07:783][884]LogAIModule: Creating AISystem for world FirstFloor
+[2023.01.07-12.19.07:783][884]LogPlayLevel: PIE: World Init took: (0.001442s)
+[2023.01.07-12.19.07:783][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor to /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor (0.058867s)
+[2023.01.07-12.19.07:829][884]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2023.01.07-12.19.07:837][884]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.01.07-12.19.07:837][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.07-12.19.07:837][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.07-12.19.07:837][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.07-12.19.07:837][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.07-12.19.07:837][884]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.07-12.19.07:837][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.07-12.19.07:837][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.07-12.19.07:838][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.07-12.19.07:838][884]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.07-12.19.07:838][884]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.07-12.19.07:838][884]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.07-12.19.07:838][884]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.07-12.19.07:841][884]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.07-12.19.07:841][884]LogAudioMixer: Display: 1: FrontRight
+[2023.01.07-12.19.07:856][884]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2023.01.07-12.19.07:856][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.07-12.19.07:856][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.07-12.19.07:856][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.07-12.19.07:857][884]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.07-12.19.07:857][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.07-12.19.07:857][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.07-12.19.07:858][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.07-12.19.07:858][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.07-12.19.07:858][884]LogInit: FAudioDevice initialized.
+[2023.01.07-12.19.07:858][884]LogAudio: Display: Audio Device (ID: 36) registered with world 'FirstFloor'.
+[2023.01.07-12.19.07:866][884]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.07-12.19.07:888][884]LogWorld: Bringing World /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor.FirstFloor up for play (max tick rate 60) at 2023.01.07-13.19.07
+[2023.01.07-12.19.07:889][884]LogWorld: Bringing up level for play took: 0.022181
+[2023.01.07-12.19.07:889][884]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2023.01.07-12.19.07:894][884]PIE: Server logged in
+[2023.01.07-12.19.07:895][884]PIE: Play in editor total start time 0,173 seconds.
+[2023.01.07-12.19.17:569][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.07-12.19.17:569][435]LogWorld: BeginTearingDown for /Game/EF_FirstFloor/Maps/UEDPIE_0_FirstFloor
+[2023.01.07-12.19.17:570][435]LogWorld: UWorld::CleanupWorld for FirstFloor, bSessionEnded=true, bCleanupResources=true
+[2023.01.07-12.19.17:575][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.07-12.19.17:592][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.07-12.19.17:614][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.07-12.19.17:659][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.07-12.19.17:661][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.07-12.19.17:663][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.07-12.19.17:677][435]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2023.01.07-12.19.17:757][436]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.01.07-12.26.42:510][346]LogUObjectHash: Compacting FUObjectHashTables data took   8.85ms
+[2023.01.07-12.26.42:818][346]LogSavePackage: Moving '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/FirstFloor_Auto00DF97E5340AC897AEC1337AAB63FD406.tmp' to '../../../../../../Users/wikig/OneDrive/Dokumenty/GitHub/IAmDeadInside/mobilki/Saved/Autosaves/Game/EF_FirstFloor/Maps/FirstFloor_Auto0.umap'
+[2023.01.07-12.26.42:821][346]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/EF_FirstFloor/Maps/FirstFloor' took 0.401
+[2023.01.07-12.26.42:821][346]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.401
+[2023.01.07-12.32.57:301][465]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.01.07-12.49.26:987][416]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.01.07-13.05.35:125][303]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.01.07-13.06.26:079][455]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.01.07-13.46.57:454][791]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.01.07-13.48.49:068][123]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.01.07-13.49.51:605][309]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.01.07-13.52.35:677][797]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.01.07-13.55.35:145][331]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.01.07-13.57.50:250][733]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{26a65c43-b165-4d19-ac32-50451ab6898c}.
+[2023.01.07-13.57.50:576][733]LogAudioMixer: Resetting audio stream to device id 
+[2023.01.07-13.57.50:606][733]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.07-13.57.50:606][733]LogAudioMixer: Display: 1: FrontRight
+[2023.01.07-14.07.59:673][730]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
