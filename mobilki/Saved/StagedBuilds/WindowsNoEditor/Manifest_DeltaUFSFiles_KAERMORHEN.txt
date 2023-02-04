@@ -1340,9 +1340,6 @@ Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp
 Engine/Content/EditorResources/Bad.uasset
 Engine/Content/EditorResources/Bad.ubulk
 Engine/Content/EditorResources/Bad.uexp
-Engine/Content/EditorResources/BadBlueprintSprite.uasset
-Engine/Content/EditorResources/BadBlueprintSprite.ubulk
-Engine/Content/EditorResources/BadBlueprintSprite.uexp
 Engine/Content/EditorResources/BSPVertex.uasset
 Engine/Content/EditorResources/BSPVertex.uexp
 Engine/Content/EditorResources/EmptyActor.uasset
@@ -1443,6 +1440,9 @@ Engine/Content/EditorResources/T_EditorHelp.ubulk
 Engine/Content/EditorResources/T_EditorHelp.uexp
 Engine/Content/EditorResources/AI/S_NavLink.uasset
 Engine/Content/EditorResources/AI/S_NavLink.uexp
+Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset
+Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.ubulk
+Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp
 Engine/Content/EditorResources/LightIcons/SkyLight.uasset
 Engine/Content/EditorResources/LightIcons/SkyLight.uexp
 Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset
@@ -1469,8 +1469,6 @@ Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset
 Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uexp
 Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset
 Engine/Content/EditorSounds/Notifications/CompileSuccess.uexp
-Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset
-Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uexp
 Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset
 Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp
 Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset
@@ -2307,8 +2305,6 @@ mobilki/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode
 mobilki/Content/ShaderArchive-mobilki-PCD3D_SM5.ushaderbytecode
 mobilki/Content/talking.uasset
 mobilki/Content/talking.uexp
-mobilki/Content/timer.uasset
-mobilki/Content/timer.uexp
 mobilki/Content/EF_FirstFloor/Common/MasterMaterial/MASTER_BaseColor_Mat.uasset
 mobilki/Content/EF_FirstFloor/Common/MasterMaterial/MASTER_BaseColor_Mat.uexp
 mobilki/Content/EF_FirstFloor/Common/MasterMaterial/Master_BookVariety_Mat.uasset
@@ -4488,9 +4484,13 @@ mobilki/Content/ThirdPersonBP/Blueprints/door.uasset
 mobilki/Content/ThirdPersonBP/Blueprints/door.uexp
 mobilki/Content/ThirdPersonBP/Blueprints/Interact.uasset
 mobilki/Content/ThirdPersonBP/Blueprints/Interact.uexp
+mobilki/Content/ThirdPersonBP/Blueprints/smth.uasset
+mobilki/Content/ThirdPersonBP/Blueprints/smth.uexp
 mobilki/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
 mobilki/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uexp
 mobilki/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
 mobilki/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uexp
+mobilki/Content/ThirdPersonBP/Blueprints/TriggerSphere_Blueprint.uasset
+mobilki/Content/ThirdPersonBP/Blueprints/TriggerSphere_Blueprint.uexp
 Manifest_NonUFSFiles_Win64.txt
 Manifest_UFSFiles_Win64.txt
